@@ -91,14 +91,4 @@ The model was trained for 25 epochs and achieved the following performance on th
 -   **Test Dice Coefficient**: 0.9650
 -   **Test IoU Score**: 0.9317
 
-The training history plots below show the model's learning progress over the 25 epochs.
 
-| Model Loss | Dice Coefficient | IoU Score |
-| :---: | :---: | :---: |
-| ![Model Loss](./model_loss.png) | ![Dice Coefficient](./model_dice_coef.png) | ![IoU Score](./model_iou_score.png) |
-
----
-
-## 📂 File Structure
-
-After running the notebook, the project directory will look like this:
