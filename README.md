@@ -2,8 +2,6 @@
 
 This project demonstrates the segmentation of lungs from 2D CT scan images using a U-Net architecture. The model is built with TensorFlow and Keras. The entire workflow, from data loading and preprocessing to model training and evaluation, is contained within the `Lungs in CT Data FINAL.ipynb` notebook.
 
-![Sample Prediction](./predicted_mask_visualization.png)
-*Example of a CT scan, its ground truth mask, and the model's predicted mask.*
 
 ---
 
